@@ -2,7 +2,7 @@
 
 **Skills**: Javascript (Vue|Node|React|Angular)| Typescript 
 
-[<img src="https://wakatime.com/share/@kratos/f65bbe13-6c8d-463c-9812-55229c697fdd.svg" alt='Languages' height='400'>](https://github.com/MartinsOnuoha)
+[<img src="https://wakatime.com/share/@Aimes/26732cff-edfd-44f7-8e31-2985d1a9fb44.svg" alt='Languages' height='400'>](https://github.com/mr-emeka)
 
 - 🔭 I’m currently working on opensource & private projects 
 - 🌱 I’m currently learning some new technologies. 

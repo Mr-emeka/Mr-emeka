@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Ukpai Chukwuemeka.
 
-**Skills**: Javascript (Vue|Node|React|Angular)| Typescript 
+**Skills**: Javascript (Node|React|Next)| Typescript 
 
 [<img src="https://wakatime.com/share/@Aimes/475ff4bc-433f-45f2-81b2-a75c19c61810.svg" alt='Languages' height='400'>](https://github.com/mr-emeka)
 

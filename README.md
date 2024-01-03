@@ -1,8 +1,6 @@
 # Hi, I'm Ukpai (Aimes) 👋🏾 👩🏾‍💻
 
-Positive and self-disciplined Software Engineer with 3+ years of experience developing user-friendly and pixel-perfect software products. I am well-versed in Node, HTML, CSS, and JavaScript. I also have experience building single-page web applications using Next, Gatsby, and React.
-I have worked remotely on a couple of projects with groups of people from various backgrounds, which has given me the opportunity to strengthen my skills. I have gained the maturity and technical expertise required to work on any software project. 
-
+Passionate and self-driven Software Engineer with 3+ years of experience crafting beautifully designed and user-friendly software. I'm fluent in Node, HTML, CSS, and JavaScript, and I've built engaging single-page apps using Next, Gatsby, and React. Collaborating remotely on diverse teams has refined my communication and problem-solving skills, making me a versatile asset to any project. 
 
 
 ### Highlights 🌟

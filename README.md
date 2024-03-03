@@ -1,4 +1,4 @@
-# Hi, I'm Ukpai (Aimes) 👋🏾 👩🏾‍💻
+# Hello, Ukpai (Aimes) here  👋🏾 👩🏾‍💻
 
 Eager Software Engineer | Learning from Experience
 

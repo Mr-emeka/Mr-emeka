@@ -1,7 +1,6 @@
 # Hi, I'm Ukpai (Aimes) 👋🏾 👩🏾‍💻
 
-Passionate and self-driven Software Engineer with 3+ years of experience crafting beautifully designed and user-friendly software. I'm fluent in Node, HTML, CSS, and JavaScript, and I've built engaging single-page apps using Next, Gatsby, and React. Collaborating remotely on diverse teams has refined my communication and problem-solving skills, making me a versatile asset to any project. 
-
+Eager Software Engineer | Learning from Experience
 
 ### Highlights 🌟
 
@@ -25,9 +24,9 @@ Passionate and self-driven Software Engineer with 3+ years of experience craftin
 ![Profile views](https://gpvc.arturio.dev/mr-emeka)  
 
 
-- 🔭 Open Source Contrubutor ( 2023 Goal 🌟)  
+- 🔭 Open Source Contributor ( 2024 Goal 🌟)  
 - 🌱 I’m currently learning some new technologies. 
 - 💬 Ask me about Javascript. 
 - 📫 How to reach me: speak2c.emeka@gmail.com.
-- ⚡ Fun fact: I smile alot.
-- 👯 I’m looking to collaborate on any web related projects.
+- ⚡ Fun fact: I smile a lot.
+- 👯 I’m looking to collaborate on any web-related projects.

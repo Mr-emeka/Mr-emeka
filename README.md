@@ -21,8 +21,6 @@ Eager Software Engineer | Learning from Experience
   </tr>
  </table>
 
-![Profile views](https://gpvc.arturio.dev/mr-emeka)  
-
 
 - 🔭 Open Source Contributor ( 2024 Goal 🌟)  
 - 🌱 I’m currently learning some new technologies. 

@@ -1,6 +1,6 @@
-# Hello, Ukpai (Aimes) here  👋🏾 👩🏾‍💻
+# Hello 👋🏾, Ukpai (Aimes) here  
 
-Eager Software Engineer | Learning from Experience
+FullStack Software Engineer | Learning from Experience
 
 ### Highlights 🌟
 

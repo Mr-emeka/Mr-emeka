@@ -11,7 +11,7 @@ FullStack Software Engineer | Learning from Experience
       <h3>Languages and Tools 💻:</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=mr-emeka&show_icons=true" width="400">
       <br>
-      [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-emeka)
+    <a href="https://github.com/mr-emeka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-emeka&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mr-emeka's github stats" /></a> 
     </td>
     <td>
        <img src="https://raw.githubusercontent.com/technicaldada/hackerpro/master/logo205x250.gif" height="200" wifdth="200">

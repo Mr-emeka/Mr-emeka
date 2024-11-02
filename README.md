@@ -1,8 +1,7 @@
 # UKPAI Chukwuemeka (Software Engineer)
 
 - 🔭 Open Source Contributor ( 2024 Goal 🌟)  
-- 🌱 I’m currently learning some new technologies. 
-- 💬 Ask me about Javascript. 
+- 🌱 I’m always learning. 
 - 📫 How to reach me: speak2c.emeka@gmail.com.
 - ⚡ Fun fact: I smile a lot.
 - 👯 I’m open to collaborate on any web or mobile related projects.

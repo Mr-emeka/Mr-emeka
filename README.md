@@ -1,9 +1,8 @@
 # Hello 👋🏾, Ukpai (Aimes) here  
 
-FullStack Software Engineer | Learning from Experience
+Software Engineer
 
 ### Highlights 🌟
-
 
 <table scrolling=no>
   <tr>
@@ -18,9 +17,6 @@ FullStack Software Engineer | Learning from Experience
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/aimes_js) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ukpai/) 
     </td>  
-    <td>
-<a href="https://github.com/mr-emeka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-emeka&layout=compact&theme=buefy&hide_border=true" /></a>
-    </td>
   </tr>
  </table>
 

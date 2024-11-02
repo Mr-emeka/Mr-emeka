@@ -1,8 +1,4 @@
-# Software Engineer
-
-## Hello 👋🏾, Ukpai (Aimes) here  
-
-
+# UKPAI | Software Engineer
 
 ### Highlights 🌟
 

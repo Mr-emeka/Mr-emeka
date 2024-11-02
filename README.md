@@ -5,7 +5,7 @@
 - 💬 Ask me about Javascript. 
 - 📫 How to reach me: speak2c.emeka@gmail.com.
 - ⚡ Fun fact: I smile a lot.
-- 👯 I’m looking to collaborate on any web-related projects.
+- 👯 I’m looking to collaborate on any web/mobile related projects.
   
 <table scrolling=no>
   <tr>

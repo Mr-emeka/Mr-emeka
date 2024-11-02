@@ -1,4 +1,4 @@
-# UKPAI | Software Engineer
+# UKPAI (Software Engineer)
 
 ### Highlights 🌟
 

@@ -1,6 +1,6 @@
 # UKPAI Chukwuemeka (Software Engineer)
 
-- 🔭 Writing on Medium [Medium Link](https://medium.com/@ukpai) 
+- 🔭 Writing on [Medium](https://medium.com/@ukpai) 
 - 🌱 I’m always learning. 
 - 📫 How to reach me: speak2c.emeka@gmail.com.
 - ⚡ Fun fact: I smile a lot.
